@@ -4,8 +4,5 @@ And I use Photo where i add web site get from online
 
 SCREENSHORT DESKTOP
 
-![1](https://user-images.githubusercontent.com/90317062/208998164-39cb65d7-550c-483e-b5a9-c31fff6d9e18.png)
-![2](https://user-images.githubusercontent.com/90317062/208998276-3b676117-8aa5-458d-a244-4c5ed5aaa50f.png)
 
-
-
+![Educate](https://user-images.githubusercontent.com/90317062/209105255-527be90a-9aa1-4d64-88c5-fa15ca307873.png)
